@@ -1,0 +1,20 @@
+|1|Espada Andúril (Réplica Oficial de Gondor)|299.5|15|
+|2|Grimório do Invoker — Guia de Magia Avançada|149.25|8|
+|3|Chifre de Dragão Dovahkiin (Item de Colecionador)|89.0|24|
+|4|Bazuca Fishbones da Jinx (Edição Limitada)|199.0|5|
+|5|Arco Élfico de Lothlórien (Autografado pelo Legolas)|350.0|3|
+|6|Gancho do Pudge (Aço Cirúrgico, Cheiro de Carne Fresca Incluso)|80.0|42|
+|7|Pedra da Alma Alduin (Consome 1 Alma de Dragão para Ativar)|129.5|0|
+|8|Lanterna da Alma do Thresh (Não solte a mão!)|50.5|17|
+|9|Anel Único (Réplica — NÃO coloque no dedo)|100000.0|1|
+|10|Lâmina Anti-Mana (Anula Magia em 5m de Raio)|180.5|11|
+|11|Poção de Sangue de Ancião (Para Vampiros e Curiosos)|39.0|66|
+|12|Katana Hasagi do Yasuo (Vento Incluso, Sopro não Garantido)|219.0|8|
+|13|Bastão de Branco de Gandalf (Brilha na Presença de Orcs)|260.5|7|
+|14|Arco Lunar da Mirana (Seta Sagrada com GPS Incluso)|189.5|11|
+|15|Queijo Wabbajack do Sheogorath (Sabor Aleatório a Cada Mordida)|30.0|88|
+|16|Poção de Estamina do Dovahkiin (Para Quem Carrega Muito Loot)|20.5|150|
+|17|Miniatura do Balrog (Não Deixe Próximo a Gandalf Branco)|50.0|6|
+|18|Mapa das Ilhas das Sombras (Risco de Desaparecimento)|35.5|13|
+|19|Ocarina do Tempo (Toca 6 Notas, Viaja no Tempo Não Incluso)|119.5|4|
+|20|Escudo do Solaire (Para Jolly Cooperation!)|160.5|20|

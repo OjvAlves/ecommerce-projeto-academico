@@ -1,0 +1,9 @@
+=== REGISTRO DE PEDIDO ===
+Codigo: 1003
+Cliente ID: 3
+Status: Confirmado
+----------------------------
+Itens:
+ - Chifre de Dragão Dovahkiin (Item de Colecionador) x1 = R$ 89
+----------------------------
+TOTAL: R$ 191.5

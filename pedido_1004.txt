@@ -1,0 +1,9 @@
+=== REGISTRO DE PEDIDO ===
+Codigo: 1004
+Cliente ID: 1
+Status: Confirmado
+----------------------------
+Itens:
+ - Katana Hasagi do Yasuo (Vento Incluso, Sopro não Garantido) x1 = R$ 219
+----------------------------
+TOTAL: R$ 399.5

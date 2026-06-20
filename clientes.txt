@@ -1,0 +1,15 @@
+|1|Aragorn Elessar|aragorn@minastirith.net|king_returned|AndurilFlame01!|
+|2|Invoker Kael|kael@sunstrike.io|carl_magus|QuasWexExort02#|
+|3|Dovahkiin Stormcrown|dovahkiin@skyrim.net|dragonborn_fus|RoDahFus03|
+|4|Jinx Powder|jinx@piltover.net|get_jinxed|FishBonesBoom04%|
+|5|Legolas Greenleaf|legolas@woodlandrealm.com|elf_archer|RedDawnArrows05&|
+|6|Pudge Butcher|pudge@quelserrar.io|fresh_meat|HookDismember06*|
+|7|Alduin World-Eater|alduin@sovngarde.net|dragon_ending|JoorZahFrul07(|
+|8|Thresh Chainwarden|thresh@shadowisles.com|soul_collector|LanternPrison08)|
+|9|Gollum Smeagol|gollum@mistymountains.net|precious_finder|MyPrecious09!|
+|10|Anti-Mage Magina|magina@blinkstrike.io|magic_hater|ManaVoidBurn10@|
+|11|Serana Volkihar|serana@castlevolkihar.net|vampire_lord|DawnguardEnd11#|
+|12|Yasuo Unforgiven|yasuo@ionia.net|hasagi_wind|LastBreathSteel12 |
+|13|Gandalf Branco|gandalf@valinor.net|saruman_better|WhiteRiderDawn13%|
+|14|Mirana Moonlight|mirana@selemene.io|potm_arrow|SacredArrowHit14&|
+|15|Sheogorath Louco|sheogorath@shiveringisles.net|cheese_wheels|WabbajackMad15*|
